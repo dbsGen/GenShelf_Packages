@@ -1,0 +1,11 @@
+[
+	{
+		"name":"nihao",
+		"version": 0,
+		"id": "com.baidu",
+		"icon": "http://op5mxu9mm.bkt.clouddn.com/icon_2.png",
+		"host": "http://www.baidu.com",
+		"url": "http://op5mxu9mm.bkt.clouddn.com/ehantai.zip",
+		"description": "这是简介！"
+	}
+]
