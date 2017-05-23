@@ -3,9 +3,9 @@
 		"name":"nihao",
 		"version": 0,
 		"id": "com.baidu",
-		"icon": "http://op5mxu9mm.bkt.clouddn.com/icon_2.png",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/icon_2.png?raw=true",
 		"host": "http://www.baidu.com",
-		"url": "http://op5mxu9mm.bkt.clouddn.com/ehantai.zip",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/test.zip?raw=true",
 		"description": "这是简介！"
 	}
 ]
