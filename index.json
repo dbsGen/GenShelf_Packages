@@ -20,7 +20,7 @@
 	}, 
 	{
 		"name":"E-hentai",
-		"version": 0,
+		"version": 1,
 		"id": "org.e-hentai",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
 		"host": "https://e-hentai.org/",
