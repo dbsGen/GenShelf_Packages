@@ -17,5 +17,14 @@
 		"host": "http://www.fzdm.com/",
 		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/fzdm.zip?raw=true",
 		"description": "風之動漫前身是風漫論壇,後已關閉,現在的風之動漫於2013年初轉讓與我(我是台灣的snake),目前域名和站點的數據所有權都屬於我,所以我為大家負責網站一切事物。 <p>風之動漫是一個在為大中華區動漫愛好者分享動漫,遊戲,輕小說等的多次元站点. <p>網站主要致力於推廣推動兩岸三地優秀的漫畫家創作的作品,為漫畫家提供一個宣傳的平台,站点屬於非盈利制。 "
+	}, 
+	{
+		"name":"E-hentai",
+		"version": 0,
+		"id": "org.e-hentai",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
+		"host": "https://e-hentai.org/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.zip?raw=true",
+		"description": "We strive to uphold the ideals of freedom of speech on this website. However, to stay within the confines of applicable law and generally accepted moral limits, there are certain rules you must obey with content you upload to this site. What you can and cannot post is listed below. If what you wish to post is not listed, you can assume that this isn't the place to post it."
 	}
 ]
