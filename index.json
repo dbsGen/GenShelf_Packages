@@ -10,6 +10,16 @@
 		"description": "看漫画是一家非商业性的分享交流网站，针对海外华人提供服务。我们的本意是立足于漫画爱好者研究漫画技巧和构图方式，不仅是一个提供宣传推广全世界各种不同漫画文化的分享交流平台，更致力于推动和发展华人原创动漫。<p>看漫画所漫画均来自网友分享和上传，以便漫画爱好者研究漫画技巧和构图方式，禁止任何形式的下载！若喜欢，请支持购买正版！<p>看漫画漫画的版权归原漫画作者及发行商所有。如有侵犯到您的权益，请联系我们，确认之后立即删除。本站不负任何相关责任！<p>看漫画欢迎和各大公司进行内容及模式上合作。<p>看漫画暂不接受任何广告，谢谢 。"
 	},
 	{
+		"name":"KuKu",
+		"version": 1,
+		"package_version": 2,
+		"id": "com.kukudm.comic",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/kukudm.png?raw=true",
+		"host": "http://comic.kukudm.com/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/kukudm.zip?raw=true",
+		"description": ""
+	},
+	{
 		"name":"图库漫画",
 		"version": 1,
 		"id": "cc.tuku",
