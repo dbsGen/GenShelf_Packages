@@ -11,7 +11,7 @@
 	},
 	{
 		"name":"KuKu动漫",
-		"version": 1,
+		"version": 2,
 		"package_version": 2,
 		"id": "com.kukudm.comic",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/kukudm.png?raw=true",
