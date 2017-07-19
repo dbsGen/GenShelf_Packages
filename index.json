@@ -40,6 +40,16 @@
 		"description": "动漫之家隶属于尚科齐（北京）网络科技有限公司，创建于2005年，是国内最早、最大、最专业的动漫综合类平台，历经十年发展，在国内动漫平台中一直处于领先地位。动漫之家网站拥有国内最多的漫画内容，网站分为原创漫画、动漫情报、动画频道、漫画频道、轻小说、动漫之家论坛六大板块。其中，原创漫画频道为动漫之家主推的产品渠道。<p>动漫之家更加关注用户的喜好，致力于发掘精品原创漫画，强调漫画的故事性和画面感，使得动漫之家的用户群体更加贴近于动漫爱好者的主流人群。<p>动漫之家专注于原创动漫业务，利用互联网平台的优势，不断地提升原创动漫的发展空间，敢于做动漫行业“第一个吃螃蟹的人”。"
 	}, 
 	{
+		"name":"手机汗汗",
+		"version": 1,
+		"package_version": 5,
+		"id": "com.hhmmoo",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hhmmoo.png?raw=true",
+		"host": "http://www.hhmmoo.com/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hhmmoo.zip?raw=true",
+		"description": "hhssee.com"
+	}, 
+	{
 		"name":"图库漫画",
 		"version": 1,
 		"id": "cc.tuku",
