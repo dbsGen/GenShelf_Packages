@@ -71,7 +71,7 @@
 	}, 
 	{
 		"name":"E-hentai",
-		"version": 2,
+		"version": 3,
 		"package_version": 4,
 		"id": "org.e-hentai",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
