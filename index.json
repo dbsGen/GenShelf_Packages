@@ -50,6 +50,16 @@
 		"description": "hhssee.com"
 	}, 
 	{
+		"name":"亲亲漫画",
+		"version": 1,
+		"package_version": 6,
+		"id": "com.dm930",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/qqmh.png?raw=true",
+		"host": "http://manhua.dm930.com/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/qqmh.zip?raw=true",
+		"description": "亲亲动漫网成立于2013年10月1日，以动漫为核心，分享为载体，3年来一直坚持快速、高清、无弹窗，受到了广大漫友的一致好评。目前会员已经通过30万大关，每天新会员以三位数增长，并且日活跃会员在40000位左右。网站以音乐、视频、圈子、图集、漫画平台模块为内容核心，每日的新投稿更新数量都在50个以上。"
+	}, 
+	{
 		"name":"图库漫画",
 		"version": 1,
 		"id": "cc.tuku",
