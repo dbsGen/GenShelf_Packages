@@ -81,7 +81,7 @@
 	}, 
 	{
 		"name":"E-hentai",
-		"version": 2,
+		"version": 3,
 		"package_version": 4,
 		"id": "org.e-hentai",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
@@ -90,7 +90,7 @@
 		"description": "We strive to uphold the ideals of freedom of speech on this website. However, to stay within the confines of applicable law and generally accepted moral limits, there are certain rules you must obey with content you upload to this site. What you can and cannot post is listed below. If what you wish to post is not listed, you can assume that this isn't the place to post it."
 	},{
 		"name":"邪恶佬",
-		"version": 1,
+		"version": 2,
 		"package_version": 5,
 		"id": "com.xieelao",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/xel.png?raw=true",
