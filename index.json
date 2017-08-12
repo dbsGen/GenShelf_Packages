@@ -88,6 +88,16 @@
 		"host": "https://e-hentai.org/",
 		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.zip?raw=true",
 		"description": "We strive to uphold the ideals of freedom of speech on this website. However, to stay within the confines of applicable law and generally accepted moral limits, there are certain rules you must obey with content you upload to this site. What you can and cannot post is listed below. If what you wish to post is not listed, you can assume that this isn't the place to post it."
+	}, 
+	{
+		"name":"nhentai",
+		"version": 1,
+		"package_version": 5,
+		"id": "net.nhentai",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/nhentai.png?raw=true",
+		"host": "https://nhentai.net/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/nhentai.zip?raw=true",
+		"description": "nhentai is a free hentai manga and doujinshi reader with over 165,000 galleries to read and download."
 	},{
 		"name":"邪恶佬",
 		"version": 2,
