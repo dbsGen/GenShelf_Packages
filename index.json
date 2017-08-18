@@ -107,5 +107,14 @@
 		"host": "http://www.xieelao.com/",
 		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/xel.zip?raw=true",
 		"description": "h漫画栏目每天更新日本漫画大全很黄的漫画,日本邪恶少女漫画,漫画h很黄很暴力"
+	},{
+		"name":"悠悠漫画",
+		"version": 1,
+		"package_version": 7,
+		"id": "com.uuumh",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/uumh.png?raw=true",
+		"host": "http://www.uuumh.com/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/uumh.zip?raw=true",
+		"description": "优优邪恶漫画（m.uuumh.com）网站是邪恶类大本营,这里收集了最新热门的18进禁日本少女类的邪恶漫画大全,更有无翼鸟,邪恶帝,邪恶爱,妖气漫画网的经典日韩工口系列福利漫画本子,喜欢看中文全彩的日本邪恶漫画可以上肉番,里番,绅士优优漫画频道。"
 	}
 ]
