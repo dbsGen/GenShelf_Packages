@@ -31,7 +31,7 @@
 	}, 
 	{
 		"name":"动漫之家",
-		"version": 1,
+		"version": 2,
 		"package_version": 5,
 		"id": "com.dmzj",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/dmzj.png?raw=true",
@@ -81,8 +81,8 @@
 	}, 
 	{
 		"name":"E-hentai",
-		"version": 3,
-		"package_version": 4,
+		"version": 4,
+		"package_version": 8,
 		"id": "org.e-hentai",
 		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
 		"host": "https://e-hentai.org/",
