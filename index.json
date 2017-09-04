@@ -109,6 +109,16 @@
 		"host": "https://nhentai.net/",
 		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/nhentai.zip?raw=true",
 		"description": "nhentai is a free hentai manga and doujinshi reader with over 165,000 galleries to read and download."
+	}, 
+	{
+		"name":"hitomi",
+		"version": 1,
+		"package_version": 6,
+		"id": "la.hitomi",
+		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hitomi.png?raw=true",
+		"host": "https://tn.hitomi.la/",
+		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hitomi.zip?raw=true",
+		"description": "Hitomi.la is the best source of free Recently Added hentai, doujinshi/doujins, and manga."
 	},{
 		"name":"邪恶佬",
 		"version": 2,
