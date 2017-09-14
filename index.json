@@ -58,15 +58,6 @@
 		"host": "http://manhua.dm930.com/",
 		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/qqmh.zip?raw=true",
 		"description": "亲亲动漫网成立于2013年10月1日，以动漫为核心，分享为载体，3年来一直坚持快速、高清、无弹窗，受到了广大漫友的一致好评。目前会员已经通过30万大关，每天新会员以三位数增长，并且日活跃会员在40000位左右。网站以音乐、视频、圈子、图集、漫画平台模块为内容核心，每日的新投稿更新数量都在50个以上。"
-	}, 
-	{
-		"name":"图库漫画",
-		"version": 1,
-		"id": "cc.tuku",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/tuku.png?raw=true",
-		"host": "http://www.tuku.cc",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/tuku.zip?raw=true",
-		"description": "CC图库（http://www.tuku.cc） 专注成为最新最快的漫画分享互联网平台，为广大的互联网用户以及众多的动漫爱好者，提供丰富精彩的阅读空间和交流平台。自建成并发布以来，逐步完善系统功能和改善用户体验，致力于漫画阅读服务，提供海量更新最快的高清在线漫画欣赏，受到用户的好评。 今后还会继续接入更多的频道内容，欢迎有动漫资源的组织或机构与我们一起为用户共同打造这个平台，我们将为了成为向广大动漫爱好者提供优质的漫画阅读空间的优秀漫画网站而不断努力。"
 	},
 	{
 
