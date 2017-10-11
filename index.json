@@ -4,9 +4,9 @@
 		"version": 5,
 		"package_version": 1,
 		"id": "com.ikanman",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ikanman.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/ikanman.png",
 		"host": "http://www.ikanman.com",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ikanman.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/ikanman.zip",
 		"description": "看漫画是一家非商业性的分享交流网站，针对海外华人提供服务。我们的本意是立足于漫画爱好者研究漫画技巧和构图方式，不仅是一个提供宣传推广全世界各种不同漫画文化的分享交流平台，更致力于推动和发展华人原创动漫。<p>看漫画所漫画均来自网友分享和上传，以便漫画爱好者研究漫画技巧和构图方式，禁止任何形式的下载！若喜欢，请支持购买正版！<p>看漫画漫画的版权归原漫画作者及发行商所有。如有侵犯到您的权益，请联系我们，确认之后立即删除。本站不负任何相关责任！<p>看漫画欢迎和各大公司进行内容及模式上合作。<p>看漫画暂不接受任何广告，谢谢 。"
 	},
 	{
@@ -14,9 +14,9 @@
 		"version": 2,
 		"package_version": 2,
 		"id": "com.kukudm.comic",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/kukudm.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/kukudm.png",
 		"host": "http://comic.kukudm.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/kukudm.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/kukudm.zip",
 		"description": "kuku动漫,国内最老在线漫画站点之一,提供海量漫画,更新最快在线漫画欣赏,是动漫爱好者的交流互动平台"
 	},
 	{
@@ -24,9 +24,9 @@
 		"version": 2,
 		"package_version": 3,
 		"id": "com.ikkk",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/1kkk.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/1kkk.png",
 		"host": "https://www.1kkk.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/1kkk.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/1kkk.zip",
 		"description": "  极速漫画网（1kkk.com）是瑞安市我喜欢网络有限公司下的提供所有漫画爱好者聚集阅读漫画的平台，自建成并发布以来，逐步完善系统功能和改善用户体验，致力于漫画阅读服务，提供海量更新最快的高清在线漫画欣赏，受到用户的好评。<p>  以后极速漫画网还会继续接入更多的频道内容，欢迎有漫画资源的组织或机构与我们一起为用户打造这个平台，我们将不断为了成为向广大动漫爱好者提供优质的漫画阅读空间的优秀漫画网站而努力。"
 	}, 
 	{
@@ -34,9 +34,9 @@
 		"version": 2,
 		"package_version": 5,
 		"id": "com.dmzj",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/dmzj.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/dmzj.png",
 		"host": "http://www.dmzj.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/dmzj.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/dmzj.zip",
 		"description": "动漫之家隶属于尚科齐（北京）网络科技有限公司，创建于2005年，是国内最早、最大、最专业的动漫综合类平台，历经十年发展，在国内动漫平台中一直处于领先地位。动漫之家网站拥有国内最多的漫画内容，网站分为原创漫画、动漫情报、动画频道、漫画频道、轻小说、动漫之家论坛六大板块。其中，原创漫画频道为动漫之家主推的产品渠道。<p>动漫之家更加关注用户的喜好，致力于发掘精品原创漫画，强调漫画的故事性和画面感，使得动漫之家的用户群体更加贴近于动漫爱好者的主流人群。<p>动漫之家专注于原创动漫业务，利用互联网平台的优势，不断地提升原创动漫的发展空间，敢于做动漫行业“第一个吃螃蟹的人”。"
 	}, 
 	{
@@ -44,9 +44,9 @@
 		"version": 2,
 		"package_version": 5,
 		"id": "com.hhmmoo",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hhmmoo.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/hhmmoo.png",
 		"host": "http://www.hhmmoo.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hhmmoo.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/hhmmoo.zip",
 		"description": "hhssee.com"
 	}, 
 	{
@@ -54,9 +54,9 @@
 		"version": 1,
 		"package_version": 6,
 		"id": "com.dm930",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/qqmh.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/qqmh.png",
 		"host": "http://manhua.dm930.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/qqmh.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/qqmh.zip",
 		"description": "亲亲动漫网成立于2013年10月1日，以动漫为核心，分享为载体，3年来一直坚持快速、高清、无弹窗，受到了广大漫友的一致好评。目前会员已经通过30万大关，每天新会员以三位数增长，并且日活跃会员在40000位左右。网站以音乐、视频、圈子、图集、漫画平台模块为内容核心，每日的新投稿更新数量都在50个以上。"
 	},
 	{
@@ -65,9 +65,9 @@
 		"version": 5,
 		"package_version": 4,
 		"id": "com.fzdm",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/fzdm.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/fzdm.png",
 		"host": "http://www.fzdm.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/fzdm.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/fzdm.zip",
 		"description": "風之動漫前身是風漫論壇,後已關閉,現在的風之動漫於2013年初轉讓與我(我是台灣的snake),目前域名和站點的數據所有權都屬於我,所以我為大家負責網站一切事物。 <p>風之動漫是一個在為大中華區動漫愛好者分享動漫,遊戲,輕小說等的多次元站点. <p>網站主要致力於推廣推動兩岸三地優秀的漫畫家創作的作品,為漫畫家提供一個宣傳的平台,站点屬於非盈利制。 "
 	}, 
 	{
@@ -76,9 +76,9 @@
 		"version": 1,
 		"package_version": 4,
 		"id": "me.mangapark",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/mangapark.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/mangapark.png",
 		"host": "http://mangapark.me/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/mangapark.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/mangapark.zip",
 		"description": "Read your favorite mangas scans and scanlations online at MangaPark. Read Manga Online - Abdolutely Free, Updated Daily!"
 	},
 	{
@@ -86,9 +86,9 @@
 		"version": 4,
 		"package_version": 8,
 		"id": "org.e-hentai",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/ehentai.png",
 		"host": "https://e-hentai.org/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/ehentai.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/ehentai.zip",
 		"description": "We strive to uphold the ideals of freedom of speech on this website. However, to stay within the confines of applicable law and generally accepted moral limits, there are certain rules you must obey with content you upload to this site. What you can and cannot post is listed below. If what you wish to post is not listed, you can assume that this isn't the place to post it."
 	}, 
 	{
@@ -96,9 +96,9 @@
 		"version": 1,
 		"package_version": 5,
 		"id": "net.nhentai",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/nhentai.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/nhentai.png",
 		"host": "https://nhentai.net/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/nhentai.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/nhentai.zip",
 		"description": "nhentai is a free hentai manga and doujinshi reader with over 165,000 galleries to read and download."
 	}, 
 	{
@@ -106,27 +106,27 @@
 		"version": 1,
 		"package_version": 6,
 		"id": "la.hitomi",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hitomi.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/hitomi.png",
 		"host": "https://tn.hitomi.la/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/hitomi.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/hitomi.zip",
 		"description": "Hitomi.la is the best source of free Recently Added hentai, doujinshi/doujins, and manga."
 	},{
 		"name":"邪恶佬",
 		"version": 2,
 		"package_version": 5,
 		"id": "com.xieelao",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/xel.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/xel.png",
 		"host": "http://www.xieelao.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/xel.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/xel.zip",
 		"description": "h漫画栏目每天更新日本漫画大全很黄的漫画,日本邪恶少女漫画,漫画h很黄很暴力"
 	},{
 		"name":"悠悠漫画",
 		"version": 1,
 		"package_version": 7,
 		"id": "com.uuumh",
-		"icon": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/uumh.png?raw=true",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/uumh.png",
 		"host": "http://www.uuumh.com/",
-		"url": "https://github.com/dbsGen/GenShelf_Packages/blob/master/packages/uumh.zip?raw=true",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/uumh.zip",
 		"description": "优优邪恶漫画（m.uuumh.com）网站是邪恶类大本营,这里收集了最新热门的18进禁日本少女类的邪恶漫画大全,更有无翼鸟,邪恶帝,邪恶爱,妖气漫画网的经典日韩工口系列福利漫画本子,喜欢看中文全彩的日本邪恶漫画可以上肉番,里番,绅士优优漫画频道。"
 	}
 ]
