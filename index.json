@@ -112,6 +112,17 @@
 		"description": "nhentai is a free hentai manga and doujinshi reader with over 165,000 galleries to read and download."
 	}, 
 	{
+
+		"name":"177漫画",
+		"version": 1,
+		"package_version": 5,
+		"id": "info.177pic",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/177.png",
+		"host": "http://www.177piczz.info/",
+		"url": "http://dbsgen.coding.me/GenShelf_Packages/packages/177.zip",
+		"description": "http://www.177piczz.info/"
+	}, 
+	{
 		"name":"hitomi",
 		"version": 1,
 		"package_version": 6,
