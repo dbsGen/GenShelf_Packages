@@ -149,5 +149,15 @@
 		"host": "http://www.uuumh.com/",
 		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/uumh.zip",
 		"description": "优优邪恶漫画（m.uuumh.com）网站是邪恶类大本营,这里收集了最新热门的18进禁日本少女类的邪恶漫画大全,更有无翼鸟,邪恶帝,邪恶爱,妖气漫画网的经典日韩工口系列福利漫画本子,喜欢看中文全彩的日本邪恶漫画可以上肉番,里番,绅士优优漫画频道。"
+	}, {
+		"name":"DoujinLife",
+		"version": 1,
+		"package_version": 2,
+		"id": "com.doujinlife",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/doujinlife.png",
+		"host": "http://www.doujinlife.com/",
+		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/doujinlife.zip",
+		"description": "Adult Doujins WITH hentai XXX manga including free doujinshi IS THE BEST!! Are you ready for hentai XXX doushishi from the orient? Hot FREE Doushi"
+
 	}
 ]
