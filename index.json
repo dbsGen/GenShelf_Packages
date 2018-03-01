@@ -21,7 +21,7 @@
 	},
 	{
 		"name":"极速漫画",
-		"version": 2,
+		"version": 3,
 		"package_version": 3,
 		"id": "com.ikkk",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/1kkk.png",
@@ -83,7 +83,7 @@
 	{
 
 		"name":"MangaPark",
-		"version": 1,
+		"version": 2,
 		"package_version": 4,
 		"id": "me.mangapark",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/mangapark.png",
