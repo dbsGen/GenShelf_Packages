@@ -1,7 +1,7 @@
 [
 	{
 		"name":"爱看漫",
-		"version": 5,
+		"version": 6,
 		"package_version": 1,
 		"id": "com.ikanman",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/ikanman.png",
@@ -31,7 +31,7 @@
 	}, 
 	{
 		"name":"动漫之家",
-		"version": 2,
+		"version": 3,
 		"package_version": 5,
 		"id": "com.dmzj",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/dmzj.png",
