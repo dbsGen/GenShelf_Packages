@@ -31,7 +31,7 @@
 	}, 
 	{
 		"name":"动漫之家",
-		"version": 3,
+		"version": 4,
 		"package_version": 5,
 		"id": "com.dmzj",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/dmzj.png",
@@ -72,7 +72,7 @@
 	{
 
 		"name":"风之动漫",
-		"version": 5,
+		"version": 6,
 		"package_version": 4,
 		"id": "com.fzdm",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/fzdm.png",
