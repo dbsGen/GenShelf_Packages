@@ -93,8 +93,8 @@
 	},
 	{
 		"name":"E-hentai",
-		"version": 4,
-		"package_version": 8,
+		"version": 5,
+		"package_version": 9,
 		"id": "org.e-hentai",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/ehentai.png",
 		"host": "https://e-hentai.org/",
