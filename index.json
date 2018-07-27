@@ -11,7 +11,7 @@
 	},
 	{
 		"name":"KuKu动漫",
-		"version": 2,
+		"version": 3,
 		"package_version": 2,
 		"id": "com.kukudm.comic",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/kukudm.png",
@@ -41,7 +41,7 @@
 	}, 
 	{
 		"name":"汗汗漫画",
-		"version": 2,
+		"version": 3,
 		"package_version": 5,
 		"id": "com.hhmmoo",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/hhmmoo.png",
@@ -51,7 +51,7 @@
 	}, 
 	{
 		"name":"新新漫画",
-		"version": 1,
+		"version": 2,
 		"package_version": 5,
 		"id": "com.177mh",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/xxmh.png",
@@ -72,7 +72,7 @@
 	{
 
 		"name":"风之动漫",
-		"version": 7,
+		"version": 8,
 		"package_version": 4,
 		"id": "com.fzdm",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/fzdm.png",
