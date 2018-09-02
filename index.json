@@ -113,6 +113,17 @@
 	}, 
 	{
 
+		"name":"57漫画",
+		"version": 2,
+		"package_version": 5,
+		"id": "com.57mh",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/57mh.png",
+		"host": "http://www.57mh.com/",
+		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/57mh.zip",
+		"description": "57漫画网是一家非商业性的分享交流网站，我们的本意是立足于漫画爱好者研究漫画技巧和构图方式，不仅是一个提供宣传推广全世界各种不同漫画文化的分享交流平台，更致力于推动和发展国内原创动漫。"
+	}, 
+	{
+
 		"name":"177漫画",
 		"version": 2,
 		"package_version": 5,
