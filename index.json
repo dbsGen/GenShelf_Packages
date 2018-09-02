@@ -154,7 +154,7 @@
 	},{
 		"name":"爆爆漫",
 		"version": 1,
-		"package_version": 7,
+		"package_version": 13,
 		"id": "com.baobaoman",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/baobaoman.png",
 		"host": "http://m.baobaoman.com/",
