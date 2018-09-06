@@ -41,7 +41,7 @@
 	}, 
 	{
 		"name":"漫画人",
-		"version": 1,
+		"version": 2,
 		"package_version": 5,
 		"id": "com.manhuaren",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/manhuaren.png",
@@ -163,7 +163,7 @@
 		"description": "h漫画栏目每天更新日本漫画大全很黄的漫画,日本邪恶少女漫画,漫画h很黄很暴力"
 	},{
 		"name":"爆爆漫",
-		"version": 2,
+		"version": 3,
 		"package_version": 13,
 		"id": "com.baobaoman",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/baobaoman.png",
