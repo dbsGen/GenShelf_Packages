@@ -1,7 +1,7 @@
 [
 	{
 		"name":"爱看漫",
-		"version": 7,
+		"version": 8,
 		"package_version": 1,
 		"id": "com.ikanman",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/ikanman.png",
@@ -145,8 +145,8 @@
 	}, 
 	{
 		"name":"hitomi",
-		"version": 1,
-		"package_version": 6,
+		"version": 2,
+		"package_version": 14,
 		"id": "la.hitomi",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/hitomi.png",
 		"host": "https://tn.hitomi.la/",
