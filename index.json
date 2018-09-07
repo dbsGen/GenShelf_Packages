@@ -182,7 +182,7 @@
 
 	}, {
 		"name":"18H漫画",
-		"version": 1,
+		"version": 2,
 		"package_version": 13,
 		"id": "cc.hcomic",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/18h.png",
