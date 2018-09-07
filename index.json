@@ -180,5 +180,15 @@
 		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/doujinlife.zip",
 		"description": "Adult Doujins WITH hentai XXX manga including free doujinshi IS THE BEST!! Are you ready for hentai XXX doushishi from the orient? Hot FREE Doushi"
 
+	}, {
+		"name":"18H漫画",
+		"version": 1,
+		"package_version": 2,
+		"id": "cc.hcomic",
+		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/18h.png",
+		"host": "http://hcomic.cc/",
+		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/18h.zip",
+		"description": "免費中文成人H漫畫，情色漫畫線上看_成人漫畫、同人H本子、A漫單行本、成人向同人誌-H漫HCOMIC.CC"
+
 	}
 ]
