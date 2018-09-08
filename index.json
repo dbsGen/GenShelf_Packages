@@ -61,11 +61,11 @@
 	}, 
 	{
 		"name":"新新漫画",
-		"version": 2,
+		"version": 3,
 		"package_version": 5,
 		"id": "com.177mh",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/xxmh.png",
-		"host": "https://www.177mh.com/",
+		"host": "https://www.177mh.net/",
 		"url": "https://coding.net/u/dbsGen/p/GenShelf_Packages/git/raw/master/packages/xxmh.zip",
 		"description": "新新漫画已更新域名：77mh.com ,BL漫画 耽美漫画 耽美人生 本站新新漫画在线提供最新的火影忍者,海贼王,死神等漫画的第一时间更新。集齐漫画资源相当丰富，只有你想不到的，没有看不到的，每天更新百部漫画。"
 	}, 
