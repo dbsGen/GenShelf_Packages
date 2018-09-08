@@ -145,7 +145,7 @@
 	}, 
 	{
 		"name":"hitomi",
-		"version": 2,
+		"version": 3,
 		"package_version": 14,
 		"id": "la.hitomi",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/hitomi.png",
