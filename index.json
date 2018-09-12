@@ -41,7 +41,7 @@
 	}, 
 	{
 		"name":"漫画人",
-		"version": 2,
+		"version": 3,
 		"package_version": 5,
 		"id": "com.manhuaren",
 		"icon": "http://dbsgen.coding.me/GenShelf_Packages/packages/manhuaren.png",
